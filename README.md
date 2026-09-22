@@ -1,6 +1,12 @@
 ![](img/thumbnail_hackathon_2.jpg)
 <nobr><sup><sup>© 2024 OpenAI</sup></sup></nobr>
 
+# 🏆 Hackathon Winner
+
+**Any Question Any Place** won the **AXA Challenge at the 2024 Hackathon**.
+
+The project was recognized for its innovative use of **Large Language Models and Computer Vision for interactive satellite imagery analysis**, making complex geospatial information accessible through natural-language questions.
+
 # Description
 **Any Question Any Place** is an AI-powered platform that combines Large Language Models (LLM) and Computer Vision (CV) to analyze satellite imagery interactively. 
 
@@ -91,7 +97,7 @@ vitol/
 ```
 
 # Contributers:
+- [Kamel Charaf](https://github.com/charafkamel)
 - [Mikuláš Vanoušek](https://github.com/MikiVanousek)
 - [Jakhongir0103](https://github.com/Jakhongir0103)
 - [Sébastien Delsad](https://github.com/theS3b)
-- [Kamel Charaf](https://github.com/charafkamel)
